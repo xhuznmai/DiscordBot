@@ -1,2 +1,2 @@
-# DiscordBot
-Bot test, bot demo.
+# My Code
+Stil learning...
